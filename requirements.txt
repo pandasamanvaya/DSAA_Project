@@ -105,7 +105,7 @@ six==1.11.0
 SQLAlchemy==1.2.14
 subprocess32==3.2.7
 tweedr==0.0.4
-Twisted==19.7.0
+Twisted==20.3.0
 twython==3.6.0
 ujson==1.35
 uritemplate==3.0.0
