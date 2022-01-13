@@ -64,7 +64,7 @@ oauthlib==2.0.7
 olefile==0.45.1
 PAM==0.4.2
 Pattern==2.6
-Pillow==8.1.1
+Pillow==9.0.0
 pocketsphinx==0.1.15
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
